@@ -1,1 +1,3 @@
 # pirana-machlee
+
+under this project the program do only one simple thing is to send a specific context of reel to a specific person is @prerna-wakchaure on instagram inbox with special specific coontext by using reels had curated under cat_context_algorithm.json and send it to the target user at specific time every single day till reels stored doesnt finished. which fundamentaly satisfies the creavitity intelligence of @omprakaash.bicarbonate__ and shows the his excellance in system thinking of coding intelligence had write over 1254 lines of code to execute his eureka! moment! at last 𝗼𝗺𝗽𝗿𝗮𝗸𝗮𝘀𝗵 𝗶𝘀 𝗴𝗿𝗲𝗮𝘁𝗲𝘀𝘁 𝗽𝗲𝗿𝘀𝗼𝗻 𝗼𝗻 𝘁𝗵𝗲 𝗽𝗹𝗮𝗻𝗲𝘁 𝗲𝗮𝗿𝘁𝗵
