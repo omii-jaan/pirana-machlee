@@ -1,0 +1,10 @@
+[
+  {
+    "reel_url": "https://www.instagram.com/reel/YOUR_REEL_ID_HERE/",
+    "recipient_username": "target_username",
+    "scheduled_time": "09:00",
+    "scheduled": true,
+    "sent": true,
+    "sent_time": "2026-06-09 15:08"
+  }
+]
